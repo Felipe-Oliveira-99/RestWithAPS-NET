@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWithAPSNET", "RestWithAPSNET\RestWithAPSNET.csproj", "{CA23A800-51E2-4E08-9E96-209AE5460337}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA23A800-51E2-4E08-9E96-209AE5460337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA23A800-51E2-4E08-9E96-209AE5460337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA23A800-51E2-4E08-9E96-209AE5460337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA23A800-51E2-4E08-9E96-209AE5460337}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46DDAC74-BF74-4A4E-9A15-07E23679373F}
+	EndGlobalSection
+EndGlobal
