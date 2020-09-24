@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvxIN6iJkWDVnuDxMdQU4b7w8Y+g42AlbTn+lC4EodtaT+nXlUntd9e558Rxb1HGb15yxnNmpT5A/D4KZ96Njw==",
+  "success": true,
+  "projectFilePath": "D:\\WorkSpace\\ProjetoAulas\\RestWithAPS-NET\\RestWithAPSNET - Verbs\\RestWithAPSNET\\RestWithAPSNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felip\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
